@@ -51,8 +51,8 @@ const styles = StyleSheet.create({
     alignItems:'center'
   },  
   compteur:{
-    width:60,
-    height:60,
+    width:70,
+    height:70,
     textAlign:'center',
     fontSize:30,
     backgroundColor:'#cbf3f0',
